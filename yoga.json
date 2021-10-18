@@ -1,50 +1,60 @@
 [{
+        "id": "1354541",
         " title": " Vinyasa yoga",
         "description": "Vinyasa is a style of yoga characterized by stringing postures together so that you move from one to another, seamlessly, using breath.  Commonly referred to as “flow” yoga, it is sometimes confused.Vinyasa classes offer a variety of postures and no two classes are ever alike.  The opposite would be “fixed forms” such as Bikram Yoga, which features the same 26 postures in every class, or Ashtanga which has the same sequence every time.The variable nature of Vinyasa Yoga helps to develop a more balanced body as well as prevent repetitive motion injuries that can happen if you are always doing the same thing every day.As a philosophy, Vinyasa recognizes the temporary nature of things.  We enter into a posture, are there for a while and then leave.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_rtwT_03tkBhU8FJlAOZLExXHhLo9zugDg&usqp=CAU"
 
     },
     {
+        "id": "911612",
         "title": "Hatha yoga",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8znH4pcJyZQAdqf9P0pZR976N58osx-TRLg&usqp=CAU",
         "description": "There is some research that focuses specifically on the benefits of hatha, though most of those studies define hatha using the umbrella term (i.e., yoga that combines poses and breathing techniques) rather than specifying it as yoga that's slower-paced and focused on alignment. With that caveat in mind, those studies suggest the broad category of hatha yoga may have a variety of benefits, including: It also can impact your endurance.Yoga makes you very movable and very capable.Youget to be strong in not just one direction,but everything you can imagine doing in every direction without tiring "
     },
     {
+        "id": "361893",
         "title": "Iyengar Yoga",
         "description": "Iyengar Yoga is accessible for all ages and all body types. It is known for its focus on precision and timing and the use of props, which were designed by Mr. Iyengar and help the practitioner to achieve perfection in any asana. Regular practice of Iyengar Yoga integrates the body, mind, and emotions.Iyengar Yoga is differentiated from other methods by a worldwide, standardized system of instruction. Certified Iyengar Yoga Teachers (CIYTs) undergo rigorous training and evaluation to earn their certifications. Only CIYTs are permitted to describe their method of instruction as Iyengar Yoga. CIYTs are trained to provide clear demonstrations of each posture and are skilled in using simple props to maximize the opening and awareness of the body, providing support to the less flexible and extra extension to the more advanced student.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs4heEwJPv0SfvZ95Qh22ldvTje9T24emGWw&usqp=CAU"
     },
     {
+        "id": "82914",
         "title": "kundalini yoga",
         "description": "First introduced to the western world in the late 70s by Yogi Bhajan, Kundalini yoga is a combination of breath, movement, and sound. It derives from the Sanskrit word kundal, which translates to “coiled energy.” The idea is that we all have energy gathered at the base of our spine and, through the practice of Kundalini, we bring that energy up our spine through the seven chakras, and out the crown of our head.There are a lot of reasons why people choose to practice Kundalini—like its effect on both your physical and psychological well-being. Below are some of the most popular health benefits of Kundalini, including a faster metabolism, better mood, and lowered stress levels.That “high” you get after a sweaty yoga class is a real thing—research has found that regularly practicing Kundalini yoga increases the production of serotonin (the happy hormone) in your brain.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3z2fseFd1BbLsXBxswOXSvpdDajrDHwDduQ&usqp=CAU"
     },
     {
+        "id": "9178815",
         "title": "Ashtanga yoga",
         "description": "The ultimate purpose of the Ashtanga practice is purification of the body and mind. By moving so quickly and powerfully, you will get a lot of tapas and everything extra, physical and mental, will have to get out the way. This practice has a strong sense of purpose and you are forced to focus and grow.Ashtanga comes with all the benefits of a regular yoga practice–strength, flexibility, stress management, and inner peace. Because the series is so demanding (and in traditional practice you’re expected to practice most days) you will get really strong really fast. There is no part of the body that doesn’t work hard in this practice.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRvv1jQCtsIOP5XmiOfBde0VdcMWBMOQwcA&usqp=CAU"
     },
     {
+        "id": "639981",
         "title": "Bikram yoga",
         "description": "There's a point to practicing in a hot room besides building discipline. According to Choudhury, the precise sequence of 26 postures and two breathing exercises must be performed within 90 minutes in a heated room (set to 100-degrees-plus if it's going to be truly Bikram) to allow the body to stretch, detoxify, relieve stress, tone, and heal chronic pain such as arthritis, joint aches, knee injuries, back problems, and more. According to one study review, the potential health benefits of hot yoga include improved glucose tolerance (a better ability to process sugar), blood lipid profile (a measure of cholesterol and fats in blood), and bone density. That said, research is limited when it comes to whether heated yoga has benefits over non-heated yoga. One small study suggested that heated yoga is no more beneficial, at least when it comes to boosting adults' heart health. And if your main goal in working out is weight loss, hot yoga probably shouldn't be your first choice. One study found that it burns around the same number of calories as brisk walking, according to Time.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBum75uT9vOCoCs5abzzkL7EN5sRGqu5u8Q&usqp=CAU"
     },
     {
+        "id": "732881",
         "title": "Yin yoga",
         "description": "Through deep meditation, the ancient spiritual adepts won insight into the energy system of the body. In India, yogis called this energy prana and its pathways nadis; in China, the Taoists called it qi (pronounced chee) and founded the science of acupuncture, which describes the flow of qi through pathways called meridians. The exercises of tai chi chuan and qi gong were developed to harmonize this qi flow; the Indian yogis developed their system of bodily postures to do the same.Analyzing various yoga techniques from the perspective of yin and yang, the most relevant aspect is the elasticity of the tissues involved. Yang tissues like muscles are more fluid-filled, soft, and elastic; yin tissues like connective tissue (ligaments, tendons, and fascia) and bones are dryer, harder, and stiffer. By extension, exercise that focuses on muscle tissue is yang; exercise that focuses on connective tissue is yin.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cWrBmsA5HqCHw4EcrpR6_s7Rmg3ZihY4YQ&usqp=CAU"
     },
     {
+        "id": "2917688",
         "title": "Restorative yoga",
         "description": "The main focus of Restorative Yoga is that by relaxing in poses, with the aid of props, without strain or pain, we can achieve physical, mental and emotional relaxation. Restorative yoga classes are very relaxing and slow paced. Props, like blocks, bolsters, blankets and straps are used so that you are supported in your pose comfortably. You will then hold the pose for an extended period of time. This practice is great to balance an active yoga schedule or to give yourself a break when you feel under the weather.When you are practising restorative yoga, you will feel a sense of motionlessness and shapelessness, and this can lead you to feel some emotional discomfort and vulnerability. If this happens, stay with the breath and allow it to pass.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAAspC5Q_J4bp0rceaeArljthZlNDcR7B8A&usqp=CAU"
     },
     {
+        "id": "39289359",
         "title": "prenatal yoga",
         "description": "Prenatal yoga is designed to support mothers-to-be on their individual pregnancy journeys, from conception all the way to birth. The wide range of classes will help you meet your changing physical and emotional needs, while addressing any unexpected challenges that might arise. From uplifting movement practices and back care, to meditations to connect with your baby, you'll find a full spectrum of support tools. Studies have shown that pregnant women’s heart rate and blood pressure lowers after doing prenatal yoga — even more so than after doing other low-impact exercises like walking.",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8xL0YA6DtG3Aj2ogeJf0h-3ktKApjrwUaA&usqp=CAU"
     },
     {
+        "id": "816110",
         "title": "Anusara yoga",
         "description": "Anusara emphasizes “Universal Principles of Alignment” as the focal point of its practice, which underlie all of the physical asanas. These principles are important in the practice of yoga as they give you guidelines on how to align your body, heart and mind in a way that provides both integration and safe opening so circulation is optimal and strength, good health and wellbeing are fostered.Many Anusara yoga teachers teach in the vinyasa flow style with holding some (key) poses for a longer time. A flow practice helps to connect you to your breath and the breath serves as a guide in your asana practice. Vinyasa flow warms up the body and links the focus of the class to the physical expression. Holding the poses allows for more explanation of the key alignment principle and the linking of the spiritual intention to your body.  ",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT82CizbgMXhMuS7r4je--ntJlXq5-saLv3_A&usqp=CAU"
