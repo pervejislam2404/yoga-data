@@ -1,0 +1,51 @@
+[{
+        "name": "Charles Matkin",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMcOXVN4Oi_aKyG5wfqPgjod98HR-5GKUjdOPgxKHiDwdTbBnoAil7jG4cFSBDLdXwJc&usqp=CAU",
+        "style": "Hatha Yoga"
+    },
+    {
+        "name": "Karina Ayn Mirsky",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCeFTYqQUnSvkuDkBN-Ih175JcLnEwlD7bg&usqp=CAU",
+        "style": "Para Yoga"
+    },
+    {
+        "name": "Alanna Kaivalya",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5TPMets3TL6mf08L3LBVa07TRh2oTE2WiQ&usqp=CAU",
+        "style": "Jivamukti Yoga"
+    },
+    {
+        "name": "Monique Schubert",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbsv641QuGqVfAeFi_lVfzbjYRHQbhx2q-Q&usqp=CAU",
+        "style": "Kripalu Yoga"
+    },
+    {
+        "name": "Simon Park",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIX57CzQHOb2PSo-a5YJ0Y46cqRjMrAfAnOg&usqp=CAU",
+        "style": "Flow Yoga"
+    },
+    {
+        "name": "Scott Blossom",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFyNc2eGLtMSrY1Um7R5F-QIclMHM_7sVecQ&usqp=CAU",
+        "style": " Vinyasa Yoga"
+    },
+    {
+        "name": "Simi Cruz",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFwoZKhTqzKsfnvL7j0VqOtFoq2XSxT-bNvQ&usqp=CAU",
+        "style": "Ashtanga Yoga"
+    },
+    {
+        "name": "Jason Crandell",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5X71bILNAFI7vwuenpxPUndHRMpcVf6eL8Q&usqp=CAU",
+        "style": "Alignment-Based Vinyasa"
+    },
+    {
+        "name": "Marla Apt",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAL7_-CkowJVCL3I5DVbPhVnbq0vo1HKjpHw&usqp=CAU",
+        "style": "Iyengar Yoga"
+    },
+    {
+        "name": "Sianna Sherman",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFVhbDW7fq9Vq9L8DH8ONko44MhPRYPgBzfQ&usqp=CAU",
+        "style": " Anusara Yoga"
+    }
+]
